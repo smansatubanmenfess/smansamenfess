@@ -1,5 +1,6 @@
 from twitter import Twitter
 import time
+#tes pancingan boss
 
 
 tw = Twitter()
